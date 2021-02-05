@@ -1,0 +1,45 @@
+<resources>
+    <!--    text size-->
+    <dimen name="textSize_22_sp">22dp</dimen>
+    <dimen name="textSize_20_sp">20dp</dimen>
+    <dimen name="textSize_19_sp">19dp</dimen>
+    <dimen name="textSize_18_sp">18dp</dimen>
+    <dimen name="textSize_17_sp">17dp</dimen>
+    <dimen name="textSize_16_sp">16dp</dimen>
+    <dimen name="textSize_15_sp">15dp</dimen>
+    <dimen name="textSize_14_sp">14dp</dimen>
+    <dimen name="textSize_13_sp">13dp</dimen>
+    <dimen name="textSize_12_sp">12dp</dimen>
+    <dimen name="textSize_11_sp">11dp</dimen>
+    <dimen name="textSize_10_sp">10dp</dimen>
+
+    <dimen name="login_ed_text_size_px">16dp</dimen>
+
+    <!-- 距离 -->
+    <dimen name="distance_65_dp">65dp</dimen>
+    <dimen name="distance_60_dp">60dp</dimen>
+    <dimen name="distance_56_dp">56dp</dimen>
+    <dimen name="distance_48_dp">48dp</dimen>
+    <dimen name="distance_47_dp">47dp</dimen>
+    <dimen name="distance_40_dp">40dp</dimen>
+    <dimen name="distance_25_dp">25dp</dimen>
+    <dimen name="distance_21_dp">21dp</dimen>
+    <dimen name="distance_18_dp">18dp</dimen>
+    <dimen name="distance_16_dp">16dp</dimen>
+    <dimen name="distance_15_dp">15dp</dimen>
+    <dimen name="distance_14_dp">14dp</dimen>
+    <dimen name="distance_12_dp">12dp</dimen>
+    <dimen name="distance_10_dp">10dp</dimen>
+    <dimen name="distance_8_dp">8dp</dimen>
+    <dimen name="distance_7_dp">7dp</dimen>
+    <dimen name="distance_6_dp">6dp</dimen>
+    <dimen name="distance_4_dp">4dp</dimen>
+    <dimen name="distance_1_dp">1dp</dimen>
+    <dimen name="textSize_17_sp_for_pur_record_tab">17dp</dimen>
+    <dimen name="textSize_for_pur_record_icon">18dp</dimen>
+    <dimen name="textSize_14_sp_for_pur_record_text">14dp</dimen>
+    <dimen name="textSize_15_sp_for_pur_record_text">15dp</dimen>
+    <dimen name="add_bank_margin_size">110dp</dimen>
+    <dimen name="textSize_add_bank">16dp</dimen>
+    <dimen name="margin_left_right_15">15dp</dimen>
+</resources>
